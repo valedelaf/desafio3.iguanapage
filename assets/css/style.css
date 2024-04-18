@@ -1,0 +1,124 @@
+body{
+    background-color: #000000;
+    font-family: "Raleway", sans-serif;
+    margin:0 auto;
+    width: 1280px;
+}
+.header{
+margin: 0px;
+width: 1280px;
+height: 73px;
+background-color: #000000;
+background-position: 0% 0%;
+background-repeat: no-repeat;
+opacity: 1;
+}
+.title{
+margin: 7px 529px 7px 530px;
+width: 221px;
+height: 59px;
+letter-spacing: 0px;
+text-align:left;
+font-style: normal;
+font-weight:normal;
+font-size: 50px;
+font-family: Raleway, sans-serif;
+color: #FFFFFF;
+opacity: 1;   
+}
+.header_img{
+width: 1280px;
+height: 727px;
+}
+.section{
+    display: flex;
+    margin-top: 800px;
+    margin-left: 0px;
+    width: 1280px;
+    height: 348px;
+    background: #000000 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+.texto1{
+margin-left: 150px;
+width: 475px;
+text-align: left;
+font: normal normal 300 16px/19px Raleway;
+letter-spacing: 0px;
+color: #FFFFFF;
+opacity: 1;
+}
+.img_2{
+    margin-left: 106px;
+    top: 845px;
+    left: 731px;
+    width: 399px;
+    height: 237px;
+    background: transparent url('img/photo-1492963892107-740cd39d9ff3.png') 0% 0% no-repeat padding-box;
+opacity: 1;
+}
+.caracteristicas{
+width: 1280px;
+height: 348px;
+background: #1E1A13 0% 0% no-repeat padding-box;
+opacity: 0.98;
+text-align: center;
+padding-top:20px;
+}
+.texto2{
+margin:75px 460.5px 50px 463.5px;
+font: normal normal normal 40px/47px Raleway;
+letter-spacing: 0px;
+color: #FFFFFF;
+opacity: 1;
+}
+.flex{
+display:flex;
+justify-content: space-evenly;
+gap:20px;
+}
+.iconos{
+display:flex;
+gap:10px;
+}
+.texto3{
+text-align: center;
+font: normal normal 300 24px/29px Raleway;
+letter-spacing: 0px;
+color: #FFFFFF;
+opacity: 1;
+}
+
+.gallery{
+display: flex;
+top: 1488px;
+left: 0px;
+width: 1280px;
+height: 348px;
+gap:16px;
+justify-content: center;
+}
+.galleryimg{
+width: 316px;
+height: 202px;
+padding-top:73px;
+}
+.footer{
+    display: flex;
+    top: 1835px;
+    left: 0px;
+    width: 1280px;
+    height: 102px;
+    background: #1E1A13 0% 0% no-repeat padding-box;
+opacity: 0.94;
+}
+.footertext{
+margin: 39px 299px;
+width: 682px;
+height: 24px;
+text-align: left;
+font: normal normal 300 20px/24px Raleway;
+letter-spacing: 0px;
+color: #FFFFFF;
+opacity: 1;
+}
